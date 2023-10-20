@@ -1,4 +1,3 @@
-
 PRODUCT_TABLE = {
     'apple_iphone': 120.45,
     'android_phone': 99.50,
