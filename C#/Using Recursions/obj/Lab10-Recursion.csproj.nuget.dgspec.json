@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crewe\\OneDrive\\Desktop\\Lab10-Recursion\\Lab10-Recursion.csproj": {}
+    "C:\\Users\\crewe\\OneDrive\\Documents\\GitHub\\School-Repos\\C#\\Using Recursions\\Lab10-Recursion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crewe\\OneDrive\\Desktop\\Lab10-Recursion\\Lab10-Recursion.csproj": {
+    "C:\\Users\\crewe\\OneDrive\\Documents\\GitHub\\School-Repos\\C#\\Using Recursions\\Lab10-Recursion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crewe\\OneDrive\\Desktop\\Lab10-Recursion\\Lab10-Recursion.csproj",
+        "projectUniqueName": "C:\\Users\\crewe\\OneDrive\\Documents\\GitHub\\School-Repos\\C#\\Using Recursions\\Lab10-Recursion.csproj",
         "projectName": "Lab10-Recursion",
-        "projectPath": "C:\\Users\\crewe\\OneDrive\\Desktop\\Lab10-Recursion\\Lab10-Recursion.csproj",
+        "projectPath": "C:\\Users\\crewe\\OneDrive\\Documents\\GitHub\\School-Repos\\C#\\Using Recursions\\Lab10-Recursion.csproj",
         "packagesPath": "C:\\Users\\crewe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crewe\\OneDrive\\Desktop\\Lab10-Recursion\\obj\\",
+        "outputPath": "C:\\Users\\crewe\\OneDrive\\Documents\\GitHub\\School-Repos\\C#\\Using Recursions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
